@@ -262,6 +262,12 @@ a:hover {
   .background5-content {
     width: 5000px;
   }
+  #background2,
+  #background3,
+  #background4,
+  #background5 {
+    width: 5000px;
+  }
 }
 
 .background2-content {
