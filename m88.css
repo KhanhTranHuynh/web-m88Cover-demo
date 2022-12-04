@@ -255,6 +255,16 @@ a:hover {
   background-color: #1a202c;
 }
 
+@media only screen and (max-width: 700px) {
+  .background2-content,
+  .background3-content,
+  .background4-content,
+  .background5-content {
+    width: 100%;
+    color: red;
+  }
+}
+
 .background2-content {
   width: 1400px;
   height: 100%;
