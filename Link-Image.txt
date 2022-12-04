@@ -1,0 +1,18 @@
+title: https://www.ms8opb.com/~/static/images/mlogo-desktop.svg
+
+background1: https://www.ms8opb.com/~/static/images/sportsbook/banners/turbo-welcome-bonus_VN.jpg
+				https://www.ms8opb.com/~/static/images/badge/steven_gerrard_ambassador.svg
+background2: https://www.ms8opb.com/~/static/sub-section/fifa-world-cup/assets/img/carousel/worldcup_ambassador.jpg
+
+https://www.ms8opb.com/~/static/images/sportsbook/msports_VN.png
+https://www.ms8opb.com/~/static/images/sportsbook/saba_VN.png
+https://www.ms8opb.com/~/static/images/sportsbook/pinnacle_VN.png
+
+
+
+https://www.ms8opb.com/~/static/images/icons/flag.vi-VN.svg?build=2.59.1.17076-
+https://www.ms8opb.com/~/static/images/icons/flag.en-US.svg?build=2.59.1.17076-
+https://www.ms8opb.com/~/static/images/icons/flag.en-US.svg?build=2.59.1.17076-
+https://www.ms8opb.com/~/static/images/icons/flag.ko-KR.svg?build=2.59.1.17076-
+https://www.ms8opb.com/~/static/images/icons/flag.ja-JP.svg?build=2.59.1.17076-
+
