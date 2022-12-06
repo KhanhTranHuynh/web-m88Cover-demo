@@ -116,11 +116,11 @@ ul li {
   font-size: 14px;
 }
 
-#header .mid ul {
+#header .mid .dungchopc {
   display: flex;
 }
 
-#header .mid ul li {
+#header .mid .dungchopc .menu-pc {
   margin: 0 9px;
   line-height: 56px;
 }
@@ -253,21 +253,6 @@ a:hover {
   width: 100%;
   height: 130px;
   background-color: #1a202c;
-}
-
-@media only screen and (max-width: 700px) {
-  .background2-content,
-  .background3-content,
-  .background4-content,
-  .background5-content {
-    width: 5000px;
-  }
-  #background2,
-  #background3,
-  #background4,
-  #background5 {
-    width: 5000px;
-  }
 }
 
 .background2-content {
@@ -575,4 +560,11 @@ a:hover {
 .background6-content-right img {
   margin-top: 30px;
   width: 140px;
+}
+/* mobile */
+@media only screen and (max-width: 46.1875em) {
+}
+
+/* tablet */
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
 }
